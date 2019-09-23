@@ -1,0 +1,4 @@
+[
+  "s2s.py::test_bleu",
+  "s2s.py::test"
+]
